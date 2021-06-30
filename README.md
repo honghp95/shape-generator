@@ -1,10 +1,10 @@
 # shape-generator. 
 - [x] A user should be able to spawn an infinite number of squares or circles filled with random colours or images.  
 - [x] Application consists of 4 screens using a tab bar. The tabs are as follows:   
-- [x] Squares - this screen only spawns squares.  
-- [x] Circles - this screen only spawns circles.  
-- [x] Triangles - this screen only spawns triangles. 
-- [x] All - this screen spawns squares, circles and triangles randomly.  
+*  Squares - this screen only spawns squares.  
+*  Circles - this screen only spawns circles.  
+*  Triangles - this screen only spawns triangles. 
+*  All - this screen spawns squares, circles and triangles randomly.  
 - [x] Create squares, circles or triangles which randomly fill with random colours or images when the user taps on the main background.  
 - [x] Created shapes are placed at the user's tapped location.  
 - [x] Create a shape at a random size within appropriate ranges. A shape should not be more than 45% the width or height of the screen size and should never be less than 10% the width or height.  
