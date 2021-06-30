@@ -523,23 +523,25 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4BCF9Z9RH8;
+				DEVELOPMENT_TEAM = FYAYFLDRK4;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ShapeGenerator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = au.com.bepoz.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.honghp.shapegenerator;
 				PRODUCT_NAME = ShapeGenerator;
-				PROVISIONING_PROFILE_SPECIFIER = myplace_react_dev_prov;
+				PROVISIONING_PROFILE_SPECIFIER = "Carry Bible - Testflight";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -552,22 +554,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4BCF9Z9RH8;
+				DEVELOPMENT_TEAM = FYAYFLDRK4;
 				INFOPLIST_FILE = ShapeGenerator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = au.com.bepoz.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.honghp.shapegenerator;
 				PRODUCT_NAME = ShapeGenerator;
-				PROVISIONING_PROFILE_SPECIFIER = myplace_react_dev_prov;
+				PROVISIONING_PROFILE_SPECIFIER = "Carry Bible - Testflight";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
